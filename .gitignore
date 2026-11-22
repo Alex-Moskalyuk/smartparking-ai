@@ -10,4 +10,5 @@ venv/
 .env.*
 *.pt
 *.onnx
+runs/
 .huggingface/

@@ -6,3 +6,7 @@ numpy>=1.26
 pandas>=2.0
 tqdm>=4.66
 ipykernel>=6.29
+torch>=2.2
+torchvision>=0.17
+ultralytics>=8.3
+albumentations>=2.0
