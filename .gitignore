@@ -1,0 +1,13 @@
+data/
+reports/
+configs/plates.yaml
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+*.pt
+*.onnx
+.huggingface/
